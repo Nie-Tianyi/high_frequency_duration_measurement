@@ -1,6 +1,8 @@
 # 在运行前解压Data文件
 
 ```bash
+# on Mac/Linux
+unzip data.zip
 ```
 
 
